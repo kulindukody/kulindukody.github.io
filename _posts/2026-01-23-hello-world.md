@@ -28,4 +28,8 @@ Well there are a few prerequisites that would be ideal for malware development. 
 5. Windows Internals
 6. Understanding of how Windows works
 
+So with this understanding you can start malware development, Do i know all of this. Well **NO**. that's why you guys are here to join me through this journey in learning malware development.
+
+With that see you in the next blog.
+
 
