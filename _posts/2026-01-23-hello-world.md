@@ -19,5 +19,13 @@ As one wise man once said:
 You may focus on the logical way of getting into an house which is obviously through the door, but an attacker will never try the logical way he might just try the windows if your building is not secure.
 
 So in that case the malware is like the assessment we run through the window.
-
 ## What are the Prerequisites to start Malware Development
+Well there are a few prerequisites that would be ideal for malware development. Starting from the most critical prerequisite.
+1. Critical Thinking
+2. C++ / C Programming
+3. Understanding of Shellcode
+4. Command and Control Servers
+5. Windows Internals
+6. Understanding of how Windows works
+
+
