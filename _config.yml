@@ -15,7 +15,7 @@ timezone:
 # ↓ --------------------------
 
 title: Kulindu's Blog
-tagline: A research and development repo # it will display as the subtitle
+tagline: A R&D Repo to share my learning journey # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blog, Kulindu Kodithuwakku, Legion Offensive Security
@@ -41,7 +41,7 @@ social:
     - https://github.com/kulindukody # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/kulindu-kodithuwakku-570185220/
 
 # Site Verification Settings
 webmaster_verifications:
